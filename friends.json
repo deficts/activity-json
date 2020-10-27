@@ -1,0 +1,44 @@
+[
+  {
+    "name": "El Gus",
+    "hobby": "Videojuegos",
+    "age": "21",
+    "phone": "3333333333",
+    "address": "Calle verde 123"
+  },
+  {
+    "name": "El Santi",
+    "hobby": "Deportes",
+    "age": "21",
+    "phone": "3333333334",
+    "address": "Calle azul 456"
+  },
+  {
+    "name": "El Beto",
+    "hobby": "Tocar guitarra",
+    "age": "21",
+    "phone": "3333333335",
+    "address": "Calle amarilla 789"
+  },
+  {
+    "name": "El Shyguy",
+    "hobby": "Escuchar música",
+    "age": "21",
+    "phone": "3333333336",
+    "address": "Calle morada 135"
+  },
+  {
+    "name": "El Lepe",
+    "hobby": "Beerpong",
+    "age": "21",
+    "phone": "3333333337",
+    "address": "Calle rosa 135"
+  },
+  {
+    "name": "El Grimm",
+    "hobby": "Jugar tennis",
+    "age": "21",
+    "phone": "3333333338",
+    "address": "Calle rosa 135"
+  }
+]
